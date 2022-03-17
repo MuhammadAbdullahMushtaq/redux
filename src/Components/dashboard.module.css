@@ -1,0 +1,9 @@
+.box{
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.box p{
+    font-size: large;
+}

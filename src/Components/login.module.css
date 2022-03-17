@@ -1,0 +1,14 @@
+.inputBox {
+    display: block !important;
+    margin: 10px 0;
+    font-size: large;
+    border-radius: 20px;
+    padding: 8px;
+}
+button {
+    border-radius: 15px;
+    padding: 8px;
+    font-size: large;
+    background-color: black;
+    color: rgb(0, 255, 221);
+}
